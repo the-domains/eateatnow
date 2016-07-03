@@ -1,0 +1,14 @@
+layout_spectrum: 0.6385931659024209
+typography_spectrum: 0.6990155021194369
+color:
+  brandStrength: 0.23811999103054404
+  lightness: 0.37696976377628744
+  saturation: 0.8054760303348303
+  rhythmicContrast: 0.6502479405608028
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: eateatnow
