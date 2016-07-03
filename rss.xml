@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[eateatnow]]></title>
         <description><![CDATA[eateatnow]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/eateatnow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jul 2016 20:27:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Jul 2016 20:27:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/eateatnow/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Eat Eat Now]]></title>
+            <description><![CDATA[<article><h1>Eat Eat Now</h1><p>Testo di prova</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d45631ce-cce4-4904-9350-ca4cae201f10.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d45631ce-cce4-4904-9350-ca4cae201f10.jpg</link>
+            <guid isPermaLink="false">7e8bb5cd-ade7-4cbf-97a8-4dd0713d8729</guid>
+            <pubDate>Sun, 03 Jul 2016 20:27:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[TEST TITLE]]></title>
             <description><![CDATA[<article><h1>TEST TITLE</h1><h2>PROVA</h2><p>test</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4e95e3f4417b60a9f65e09021deb011c/croprotate.jpg?cropheight=1071&cropwidth=1960&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F4efd2179-161f-44bc-9a8f-6b4b8c8ad60d.jpg&x=0&y=0"></article>]]></description>
