@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[eateatnow]]></title>
+        <description><![CDATA[eateatnow]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 03 Jul 2016 20:27:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[TEST TITLE]]></title>
+            <description><![CDATA[<article><h1>TEST TITLE</h1><h2>PROVA</h2><p>test</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4e95e3f4417b60a9f65e09021deb011c/croprotate.jpg?cropheight=1071&cropwidth=1960&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F4efd2179-161f-44bc-9a8f-6b4b8c8ad60d.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/4efd2179-161f-44bc-9a8f-6b4b8c8ad60d.jpg</link>
+            <guid isPermaLink="false">7d6f9356-3a7a-4cb7-ba69-929a2ef89adf</guid>
+            <pubDate>Sun, 03 Jul 2016 20:27:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
